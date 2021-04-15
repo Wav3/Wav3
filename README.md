@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### &#x1f4c8; GitHub Stats
+
+<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/?username=Wav3&theme=dark&hide_border=true" />
+<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/top-langs/?username=Wav3&layout=compact&theme=dark&hide_border=true" />
+
 <!--
 **Wav3/Wav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
