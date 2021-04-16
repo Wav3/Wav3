@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### &#x1F9F0; Toolbox
+### &#128421; Tech Stack
 
-- Coming soon...
+<img align="center" src="https://img.shields.io/static/v1?label=&message=PowerShell&color=0275B9&logo=powershell&logoColor=FFFFFF&style=for-the-badge" /> <img align="center" src="https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF&style=for-the-badge" /> <img align="center" src="https://img.shields.io/static/v1?label=&message=Ruby&color=8a1000&logo=ruby&logoColor=FFFFFF&style=for-the-badge" /> <img align="center" src="https://img.shields.io/static/v1?label=&message=C%20Sharp&color=662079&logo=c%20sharp&logoColor=FFFFFF&style=for-the-badge" />
 
 ### &#x1f4c8; GitHub Stats
 
