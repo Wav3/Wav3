@@ -6,8 +6,8 @@
 
 ### &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/?username=Wav3&hide_border=true&bg_color=151515&title_color=f00f40&text_color=dadada&icon_color=f00f40&show_icons=true" />
-<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/top-langs/?username=Wav3&layout=compact&hide_border=true&bg_color=151515&title_color=f00f40&text_color=dadada&icon_color=f00f40" />
+<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/?username=Wav3&bg_color=151515&title_color=f00f40&text_color=dadada&icon_color=f00f40&show_icons=true" />
+<img align="center" src="https://github-readme-stats-nu-tawny.vercel.app/api/top-langs/?username=Wav3&layout=compact&bg_color=151515&title_color=f00f40&text_color=dadada&icon_color=f00f40" />
 
 <!--
 **Wav3/Wav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
